@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "moema",
+    "nome": "Moema",
+    "prep": "em",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Mariana",
+      "Ibirapuera",
+      "Campo Belo"
+    ],
+    "referenciaLocal": "Atendemos famílias de Moema e da região do Ibirapuera, com acolhimento sigiloso e equipe disponível para avaliar o caso a qualquer hora.",
+    "faq": [
+      {
+        "q": "O atendimento em Moema é sigiloso?",
+        "a": "Sim. Todo contato e tratamento é tratado com total sigilo, protegendo a identidade da pessoa e da família."
+      },
+      {
+        "q": "Vocês fazem avaliação de urgência na região?",
+        "a": "Fazemos. Em situações de risco, nossa equipe orienta a família por telefone e organiza a avaliação com prioridade."
+      }
+    ]
+  },
+  {
+    "slug": "vila-mariana",
+    "nome": "Vila Mariana",
+    "prep": "na",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Moema",
+      "Paraíso",
+      "Saúde"
+    ],
+    "referenciaLocal": "Atendemos a Vila Mariana e bairros vizinhos da Zona Sul, com orientação à família e acompanhamento desde o primeiro contato.",
+    "faq": [
+      {
+        "q": "Como a família da Vila Mariana inicia o tratamento?",
+        "a": "Basta falar com a nossa equipe. Fazemos uma avaliação inicial e explicamos as opções de tratamento adequadas ao caso."
+      },
+      {
+        "q": "Vocês orientam os familiares durante o processo?",
+        "a": "Sim. A família recebe orientação e participa de grupos de apoio ao longo de todo o tratamento."
+      }
+    ]
+  },
+  {
+    "slug": "pinheiros",
+    "nome": "Pinheiros",
+    "prep": "em",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Madalena",
+      "Itaim Bibi",
+      "Jardim Paulista"
+    ],
+    "referenciaLocal": "Atendemos Pinheiros e a Zona Oeste de São Paulo, com avaliação responsável e tratamento conduzido por equipe multidisciplinar.",
+    "faq": [
+      {
+        "q": "Atendem casos de internação na região de Pinheiros?",
+        "a": "Sim. Avaliamos cada caso e indicamos o regime mais adequado, sempre dentro da lei e com indicação médica."
+      },
+      {
+        "q": "É possível conversar antes de decidir pela internação?",
+        "a": "Com certeza. Conversamos com a família, esclarecemos dúvidas e só então definimos o melhor caminho de tratamento."
+      }
+    ]
+  },
+  {
+    "slug": "tatuape",
+    "nome": "Tatuapé",
+    "prep": "no",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Anália Franco",
+      "Vila Formosa",
+      "Mooca"
+    ],
+    "referenciaLocal": "Atendemos o Tatuapé e a Zona Leste de São Paulo, com acolhimento sigiloso e suporte à família durante todas as etapas.",
+    "faq": [
+      {
+        "q": "Quanto tempo dura o tratamento para quem é do Tatuapé?",
+        "a": "O tempo varia conforme cada caso. Na avaliação inicial explicamos as fases e o acompanhamento previsto para a pessoa."
+      },
+      {
+        "q": "Vocês acompanham a pessoa depois da alta?",
+        "a": "Sim. Oferecemos orientação para a reinserção social e apoio nos meses seguintes, quando o risco de recaída é maior."
+      }
+    ]
+  },
+  {
+    "slug": "santana",
+    "nome": "Santana",
+    "prep": "em",
+    "regiao": "Zona Norte de São Paulo",
+    "bairrosVizinhos": [
+      "Tucuruvi",
+      "Casa Verde",
+      "Vila Guilherme"
+    ],
+    "referenciaLocal": "Atendemos Santana e a Zona Norte de São Paulo, com equipe disponível para orientar a família e avaliar o caso com responsabilidade.",
+    "faq": [
+      {
+        "q": "Como funciona o primeiro contato para quem mora em Santana?",
+        "a": "O primeiro passo é uma conversa com a nossa equipe, sigilosa e sem compromisso, para entender a situação e indicar o cuidado certo."
+      },
+      {
+        "q": "A clínica atende a qualquer hora?",
+        "a": "Sim. Nosso atendimento funciona 24 horas para acolher famílias em situação de urgência."
+      }
+    ]
+  }
+]

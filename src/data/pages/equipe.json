@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — Clínica Horizonte",
+    "description": "Equipe multidisciplinar de médicos, psiquiatras, psicólogos, enfermagem e serviço social no tratamento de dependência química em São Paulo. Conheça o time da Clínica Horizonte."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Profissionais que cuidam da pessoa por inteiro.",
+      "lead": "Médicos, psiquiatras, psicólogos, enfermagem e serviço social trabalhando juntos.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Equipe médica", "role": "Médicos e psiquiatras", "photo": "/images/team-1.jpg" },
+        { "name": "Psicologia", "role": "Terapia individual e em grupo", "photo": "/images/team-2.jpg" },
+        { "name": "Enfermagem", "role": "Cuidado e monitoramento 24h", "photo": "/images/team-3.jpg" },
+        { "name": "Serviço social", "role": "Apoio à família e reinserção", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "12+", "label": "Anos de experiência" },
+        { "value": "24h", "label": "Atendimento todos os dias" },
+        { "value": "30+", "label": "Profissionais na equipe" },
+        { "value": "100%", "label": "Sigilo no atendimento" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Buscar ajuda é o primeiro passo da recuperação.",
+      "services": ["Tratamento de dependência química", "Tratamento para alcoolismo", "Desintoxicação", "Internação voluntária", "Internação involuntária", "Internação compulsória", "Acompanhamento psicológico", "Tratamento psiquiátrico", "Reinserção social"]
+    }}
+  ]
+}

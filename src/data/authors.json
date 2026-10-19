@@ -1,0 +1,41 @@
+[
+  {
+    "id": "expert-1",
+    "name": "Equipe clínica",
+    "role": "Equipe médica e terapêutica",
+    "avatar": "",
+    "bio": "Conteúdo revisado pela equipe multidisciplinar da Clínica Horizonte, com médicos, psiquiatras e psicólogos. Edite em /admin/authors.",
+    "social": {
+      "twitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  {
+    "id": "expert-2",
+    "name": "Equipe de psicologia",
+    "role": "Psicologia",
+    "avatar": "",
+    "bio": "Textos sobre terapia, prevenção de recaída e apoio à família. Edite em /admin/authors.",
+    "social": {
+      "twitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  {
+    "id": "expert-3",
+    "name": "Serviço social",
+    "role": "Assistência social",
+    "avatar": "",
+    "bio": "Orientação sobre internação, direitos e reinserção social. Use o admin pra adicionar quantos quiser.",
+    "social": {
+      "twitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "website": ""
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dependência química",
+    "slug": "dependencia-quimica"
+  },
+  {
+    "name": "Alcoolismo",
+    "slug": "alcoolismo"
+  },
+  {
+    "name": "Tratamento e internação",
+    "slug": "tratamento-e-internacao"
+  },
+  {
+    "name": "Apoio à família",
+    "slug": "apoio-a-familia"
+  },
+  {
+    "name": "Recuperação e prevenção",
+    "slug": "recuperacao-e-prevencao"
+  }
+]

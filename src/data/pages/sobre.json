@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre a Clínica Horizonte",
+    "description": "Clínica de reabilitação em São Paulo com mais de 12 anos no tratamento de dependência química e alcoolismo. Conheça a história, a equipe e os valores da Clínica Horizonte."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a clínica",
+      "title": "Tratamento sério, humano e dentro da lei.",
+      "lead": "Mais de uma década cuidando de pessoas com dependência química e alcoolismo em São Paulo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "12+ anos cuidando de vidas",
+      "title": "Cuidamos da pessoa por inteiro.",
+      "lead": "Tratamos corpo, mente e contexto familiar, com equipe multidisciplinar e acompanhamento contínuo, sempre com sigilo e respeito.",
+      "benefits": [
+        "Equipe médica, psiquiátrica e psicológica",
+        "Desintoxicação e internação dentro da lei",
+        "Atendimento sigiloso, 24 horas",
+        "Apoio e orientação à família"
+      ],
+      "cta": { "label": "Falar com especialista", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "12+", "label": "Anos de experiência" },
+        { "value": "24h", "label": "Atendimento todos os dias" },
+        { "value": "30+", "label": "Profissionais na equipe" },
+        { "value": "100%", "label": "Sigilo no atendimento" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três passos do primeiro contato ao tratamento.",
+      "steps": [
+        { "n": "01", "title": "Primeiro contato", "text": "Fale com a nossa equipe. O atendimento é sigiloso e sem compromisso." },
+        { "n": "02", "title": "Avaliação e plano", "text": "Avaliamos o caso e indicamos o tratamento mais adequado." },
+        { "n": "03", "title": "Tratamento e apoio", "text": "Conduzimos o cuidado e acompanhamos a pessoa e a família." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "Famílias que voltaram a ter esperança.",
+      "rating": { "score": "4,9", "label": "média de avaliações" },
+      "items": [
+        { "quote": "Recuperaram meu filho com respeito e seriedade. O apoio à nossa família fez toda a diferença.", "name": "Sandra M.", "role": "Mãe — Zona Sul" },
+        { "quote": "Fui acolhido sem julgamento e hoje estou há meses sem beber. Sou grato à equipe.", "name": "Carlos R.", "role": "Em tratamento" },
+        { "quote": "Nos orientaram em um momento desesperador e conduziram tudo dentro da lei.", "name": "Patrícia L.", "role": "Irmã — Zona Leste" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Buscar ajuda é o primeiro passo da recuperação.",
+      "services": ["Tratamento de dependência química", "Tratamento para alcoolismo", "Desintoxicação", "Internação voluntária", "Internação involuntária", "Internação compulsória", "Acompanhamento psicológico", "Tratamento psiquiátrico", "Reinserção social"]
+    }}
+  ]
+}

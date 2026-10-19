@@ -1,0 +1,25 @@
+{
+  "name": "Clínica Horizonte",
+  "segmento": "Clínica de reabilitação",
+  "schemaType": "MedicalBusiness",
+  "postUrlPrefix": "",
+  "description": "Clínica de reabilitação em São Paulo: tratamento de dependência química e alcoolismo, desintoxicação, internação voluntária, involuntária e compulsória, com equipe médica e psicológica. Atendimento sigiloso. Fale com um especialista.",
+  "ctaLabel": "Falar com especialista",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@clinicahorizonte.com.br",
+  "address": "São Paulo, SP",
+  "hours": "Atendimento 24h, todos os dias",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#" },
+  "nap": {
+    "streetAddress": "Rua Exemplo, 000 — sala 00",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "00000-000",
+    "country": "BR",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=S%C3%A3o+Paulo+SP&output=embed"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Serviços — Clínica Horizonte",
+    "description": "Tratamento de dependência química e alcoolismo, desintoxicação, internação voluntária, involuntária e compulsória, acompanhamento psicológico e psiquiátrico. Conheça os serviços da Clínica Horizonte em São Paulo."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos serviços",
+      "title": "Tratamento completo para a dependência.",
+      "lead": "Da desintoxicação à reinserção social, cuidamos de cada etapa com equipe multidisciplinar.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Serviços", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Falar com especialista", "href": "/contato" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que a Clínica Horizonte",
+      "title": "Cuidado responsável em cada etapa.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Equipe multidisciplinar", "text": "Médicos, psiquiatras, psicólogos e terapeutas." },
+        { "title": "Atendimento sigiloso", "text": "Protegemos a identidade da pessoa e da família." },
+        { "title": "Acompanhamento 24h", "text": "Equipe disponível todos os dias, a qualquer hora." },
+        { "title": "Sempre dentro da lei", "text": "Internações com indicação médica e respaldo legal." },
+        { "title": "Apoio à família", "text": "Orientação e grupos de apoio no tratamento." },
+        { "title": "Ambiente acolhedor", "text": "Estrutura tranquila e segura para a recuperação." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Buscar ajuda é o primeiro passo da recuperação.",
+      "services": ["Tratamento de dependência química", "Tratamento para alcoolismo", "Desintoxicação", "Internação voluntária", "Internação involuntária", "Internação compulsória", "Acompanhamento psicológico", "Tratamento psiquiátrico", "Reinserção social"]
+    }}
+  ]
+}

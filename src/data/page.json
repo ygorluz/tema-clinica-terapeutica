@@ -1,0 +1,257 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Clínica de reabilitação em São Paulo",
+        "title": "Tratamento de dependência química e alcoolismo, com cuidado e sigilo.",
+        "lead": "Desintoxicação, internação e acompanhamento com equipe médica e psicológica. Atendemos 24 horas, com apoio à família em todas as etapas.",
+        "cta": {
+          "label": "Falar com especialista",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "240+ famílias atendidas"
+        },
+        "doctor": {
+          "name": "Equipe médica",
+          "role": "Responsável técnico",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Atendimento 24h, todos os dias"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+12 anos cuidando de vidas em São Paulo",
+        "eyebrow": "Sobre a clínica",
+        "title": "Tratamento sério, humano e dentro da lei.",
+        "lead": "Cuidamos da pessoa por inteiro — corpo, mente e família — com equipe multidisciplinar e acompanhamento contínuo.",
+        "benefits": [
+          "Equipe médica e psicológica",
+          "Atendimento sigiloso, 24 horas",
+          "Internação dentro da lei",
+          "Apoio e orientação à família"
+        ],
+        "cta": {
+          "label": "Conheça a clínica",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos serviços",
+        "title": "Tratamento completo para a dependência.",
+        "items": [
+          {
+            "title": "Tratamento de dependência química",
+            "text": "Cuidado integral com equipe médica e psicológica."
+          },
+          {
+            "title": "Desintoxicação",
+            "text": "Retirada da substância com supervisão médica e segurança."
+          },
+          {
+            "title": "Internação voluntária",
+            "text": "Tratamento estruturado quando a pessoa busca ajuda."
+          },
+          {
+            "title": "Acompanhamento psicológico",
+            "text": "Terapia para tratar as causas e prevenir recaídas."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os serviços",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "12+",
+            "label": "Anos de experiência"
+          },
+          {
+            "value": "24h",
+            "label": "Atendimento todos os dias"
+          },
+          {
+            "value": "30+",
+            "label": "Profissionais na equipe"
+          },
+          {
+            "value": "100%",
+            "label": "Sigilo no atendimento"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que a Clínica Horizonte",
+        "title": "Cuidado responsável em cada etapa do tratamento.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Equipe multidisciplinar",
+            "text": "Médicos, psiquiatras, psicólogos e terapeutas juntos."
+          },
+          {
+            "title": "Atendimento sigiloso",
+            "text": "Protegemos a identidade da pessoa e da família."
+          },
+          {
+            "title": "Acompanhamento 24h",
+            "text": "Equipe disponível todos os dias, a qualquer hora."
+          },
+          {
+            "title": "Sempre dentro da lei",
+            "text": "Internações com indicação médica e respaldo legal."
+          },
+          {
+            "title": "Apoio à família",
+            "text": "Orientação e grupos de apoio durante o tratamento."
+          },
+          {
+            "title": "Ambiente acolhedor",
+            "text": "Estrutura tranquila e segura para a recuperação."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos do primeiro contato ao tratamento.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Primeiro contato",
+            "text": "Fale com a nossa equipe. O atendimento é sigiloso e sem compromisso."
+          },
+          {
+            "n": "02",
+            "title": "Avaliação e plano",
+            "text": "Avaliamos o caso e indicamos o tratamento mais adequado."
+          },
+          {
+            "n": "03",
+            "title": "Tratamento e apoio",
+            "text": "Conduzimos o cuidado e acompanhamos a pessoa e a família."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Profissionais que cuidam da pessoa por inteiro.",
+        "members": [
+          {
+            "name": "Equipe médica",
+            "role": "Médicos e psiquiatras",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Psicologia",
+            "role": "Terapia individual e em grupo",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Enfermagem",
+            "role": "Cuidado e monitoramento 24h",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Serviço social",
+            "role": "Apoio à família e reinserção",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "Famílias que voltaram a ter esperança.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Recuperaram meu filho com respeito e seriedade. O apoio à nossa família fez toda a diferença.",
+            "name": "Sandra M.",
+            "role": "Mãe • Zona Sul"
+          },
+          {
+            "quote": "Fui acolhido sem julgamento e hoje estou há meses sem beber. Sou grato à equipe.",
+            "name": "Carlos R.",
+            "role": "Em tratamento"
+          },
+          {
+            "quote": "Nos orientaram em um momento desesperador e conduziram tudo com cuidado e dentro da lei.",
+            "name": "Patrícia L.",
+            "role": "Irmã • Zona Leste"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Conteúdo sobre dependência e recuperação.",
+        "items": [
+          {
+            "title": "Como ajudar um familiar dependente químico",
+            "excerpt": "Passos para apoiar sem facilitar o uso.",
+            "image": "/images/post-1.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Internação voluntária, involuntária e compulsória",
+            "excerpt": "Entenda as diferenças e quando cada uma se aplica.",
+            "image": "/images/post-2.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Sinais de que é hora de buscar tratamento",
+            "excerpt": "Quando o uso deixa de ser controle e vira doença.",
+            "image": "/images/post-3.jpg",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Buscar ajuda é o primeiro passo da recuperação.",
+        "services": [
+          "Tratamento de dependência química",
+          "Tratamento para alcoolismo",
+          "Desintoxicação",
+          "Internação voluntária",
+          "Acompanhamento psicológico"
+        ]
+      }
+    }
+  ]
+}

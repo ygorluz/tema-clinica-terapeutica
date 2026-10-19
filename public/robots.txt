@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://msia-tema-clinica-de-reabilitacao.vercel.app/sitemap-index.xml

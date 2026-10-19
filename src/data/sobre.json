@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Uma clínica de reabilitação para recomeçar com cuidado",
+    "desc": "A Clínica Horizonte trata dependência química e alcoolismo em São Paulo, com equipe multidisciplinar de médicos, psiquiatras, psicólogos e terapeutas. Oferecemos desintoxicação, internação voluntária, involuntária e compulsória, sempre dentro da lei, com sigilo e respeito à pessoa e à família.",
+    "image": ""
+  },
+  "content": {
+    "missionTitle": "Nosso compromisso",
+    "missionText": "Acreditamos que a dependência é uma doença que tem tratamento, e que ninguém deveria enfrentá-la sozinho. Por isso cuidamos da pessoa por inteiro: o corpo, a mente e o convívio com a família.\n\nTrabalhamos com acolhimento, sem julgamento, e com transparência sobre cada etapa do tratamento. Atuamos sempre dentro da lei e com responsabilidade, sem prometer milagres.",
+    "teamTitle": "Quem cuida de você",
+    "teamText": "Nossa equipe reúne médicos, psiquiatras, psicólogos, enfermagem, terapeutas ocupacionais e assistentes sociais. É esse cuidado conjunto que sustenta a recuperação e prepara a pessoa para voltar a viver."
+  },
+  "seo": {
+    "title": "",
+    "description": "",
+    "image": ""
+  }
+}

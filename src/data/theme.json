@@ -1,0 +1,16 @@
+{
+  "preset": "vidro",
+  "overrides": {
+    "colors": {
+      "soft": "#EDF6F1",
+      "ink": "#143A2E",
+      "ink-muted": "#4B6B5F",
+      "primary": "#143A2E",
+      "secondary": "#2E8B6F",
+      "accent": "#2FA98A",
+      "accent-ink": "#06241B",
+      "accent-strong": "#1F6B55",
+      "border": "#D8E8E0"
+    }
+  }
+}

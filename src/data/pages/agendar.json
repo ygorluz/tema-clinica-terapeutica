@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Fale com um especialista — Clínica Horizonte",
+    "description": "Solicite uma avaliação sigilosa para tratamento de dependência química ou alcoolismo em São Paulo. Atendimento 24h na Clínica Horizonte."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Falar com especialista",
+      "title": "Avaliação sigilosa em três etapas simples.",
+      "lead": "Conte a situação e seus dados — nossa equipe entra em contato para orientar.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Falar com especialista", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três passos do primeiro contato ao tratamento.",
+      "steps": [
+        { "n": "01", "title": "Primeiro contato", "text": "Fale com a nossa equipe pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Avaliação e plano", "text": "Avaliamos o caso e indicamos o tratamento mais adequado." },
+        { "n": "03", "title": "Tratamento e apoio", "text": "Conduzimos o cuidado e acompanhamos a pessoa e a família." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e fale com um especialista.",
+      "services": ["Tratamento de dependência química", "Tratamento para alcoolismo", "Desintoxicação", "Internação voluntária", "Internação involuntária", "Internação compulsória", "Acompanhamento psicológico", "Tratamento psiquiátrico", "Reinserção social"]
+    }}
+  ]
+}

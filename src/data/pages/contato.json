@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Contato — Clínica Horizonte",
+    "description": "Fale com a Clínica Horizonte: WhatsApp, telefone e atendimento 24h em São Paulo. Atendimento sigiloso para você ou um familiar com dependência química."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Estamos prontos para ajudar você.",
+      "lead": "Mande mensagem ou ligue a qualquer hora. O atendimento é sigiloso e sem compromisso.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Contato", "href": "/contato" } ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Envie uma mensagem",
+      "title": "Conte o que está acontecendo. Vamos ajudar.",
+      "services": ["Tratamento de dependência química", "Tratamento para alcoolismo", "Desintoxicação", "Internação voluntária", "Internação involuntária", "Internação compulsória", "Acompanhamento psicológico", "Tratamento psiquiátrico", "Reinserção social"]
+    }}
+  ]
+}
